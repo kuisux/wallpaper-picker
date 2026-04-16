@@ -1,0 +1,13 @@
+[package]
+name = "wallpaper-picker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.29"
+crossterm = "0.28"
+ratatui-image = { version = "6", features = ["crossterm"] }
+serde = { version = "1", features = ["derive"] }
+toml = "0.8"
+image = "0.25"
+dirs = "5"
