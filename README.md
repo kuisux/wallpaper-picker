@@ -9,12 +9,21 @@ A TUI wallpaper selector with matugen theming support.
 - [matugen](https://github.com/InioX/matugen)
 
 ## Install
+On arch
+```
+yay -S wallpaper-picker-rs
+```
+or
+```
+paru -S wallpaper-picker-rs
+```
+other distros or through cargo
 ```
 git clone https://github.com/kuisux/wallpaper-picker
 cd wallpaper-picker
 cargo install --path .
 ```
-run "wallpaper-picker" in your terminal to run :D
+if installed through aur its "wallpaper-picker-rs" to run else its just "wallpaper-picker", make sure ~/.cargo/bin is in path if you installed through cargo
 
 ## Config
 Create ~/.config/wallpaper-picker/config.toml:
