@@ -13,6 +13,7 @@ git clone https://github.com/kuisux/wallpaper-picker
 cd wallpaper-picker
 cargo install --path .
 ```
+run "wallpaper-picker" in your terminal to run :D
 
 ## Config
 Create ~/.config/wallpaper-picker/config.toml:
