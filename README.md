@@ -16,7 +16,8 @@ cargo install --path .
 
 ## Config
 Create ~/.config/wallpaper-picker/config.toml:
-
+```
 wallpaper_dir = "~/Pictures/wallpapers"
 wallpaper_setter = "awww"
 matugen_enabled = true
+```
