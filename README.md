@@ -8,9 +8,11 @@ A TUI wallpaper selector with matugen theming support.
 - [matugen](https://github.com/InioX/matugen)
 
 ## Install
-git clone https://github.com/yourname/wallpaper-picker
+```
+git clone https://github.com/kuisux/wallpaper-picker
 cd wallpaper-picker
 cargo install --path .
+```
 
 ## Config
 Create ~/.config/wallpaper-picker/config.toml:
