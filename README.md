@@ -1,6 +1,7 @@
 # wallpaper-picker
 
 A TUI wallpaper selector with matugen theming support.
+<img src="https://github.com/kuisux/aperitivo/blob/main/wallpapers/showcase.png?raw=true" alt="Showcase">
 
 ## Dependencies
 - [Rust / Cargo](https://rustup.rs/)
